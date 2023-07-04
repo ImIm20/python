@@ -5,7 +5,7 @@ Created on Tue Jul  4 15:42:30 2023
 
 @author: imroatussholihah
 """
-# test data
+
 from lib import Library
 
 l1 = Library()
